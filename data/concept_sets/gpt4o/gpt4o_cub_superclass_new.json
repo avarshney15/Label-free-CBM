@@ -1,0 +1,1187 @@
+{
+    "Black footed Albatross": [
+        "- Albatross",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Laysan Albatross": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Sooty Albatross": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Groove billed Ani": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Crested Auklet": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Least Auklet": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Parakeet Auklet": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Rhinoceros Auklet": [
+        "- auklet",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Brewer Blackbird": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red winged Blackbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Rusty Blackbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow headed Blackbird": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Bobolink": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Indigo Bunting": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Lazuli Bunting": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Painted Bunting": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cardinal": [
+        "- bird (if referring to the bird species)",
+        "- bird (if referring to the bird)",
+        "color (if referring to the color)",
+        "concept (if referring to the ordinal or cardinal number)",
+        "ecclesiastic (if referring to the religious figure)",
+        "number (if referring to the ordinal or cardinal number)",
+        "object (if referring to sports teams or other uses)",
+        "person (if referring to the church position)",
+        "person (if referring to the religious figure)",
+        "rank (if referring to the church position)"
+    ],
+    "Spotted Catbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Gray Catbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow breasted Chat": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Eastern Towhee": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Chuck will Widow": [
+        "- bird",
+        "It seems there might be a small typo in your request. If you mean \"Chuck-will's-widow,\" here are the superclasses:",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Brandt Cormorant": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Red faced Cormorant": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Pelagic Cormorant": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Bronzed Cowbird": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Shiny Cowbird": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Brown Creeper": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "American Crow": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Fish Crow": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black billed Cuckoo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Mangrove Cuckoo": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow billed Cuckoo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Gray crowned Rosy Finch": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Purple Finch": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Northern Flicker": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Acadian Flycatcher": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Great Crested Flycatcher": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Least Flycatcher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Olive sided Flycatcher": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Scissor tailed Flycatcher": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Vermilion Flycatcher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow bellied Flycatcher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Frigatebird": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Northern Fulmar": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Gadwall": [
+        "- duck",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "American Goldfinch": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "European Goldfinch": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Boat tailed Grackle": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Eared Grebe": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Horned Grebe": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Pied billed Grebe": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Western Grebe": [
+        "- Bird",
+        "Animal",
+        "Vertebrate"
+    ],
+    "Blue Grosbeak": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Evening Grosbeak": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pine Grosbeak": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Rose breasted Grosbeak": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pigeon Guillemot": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "California Gull": [
+        "- gull",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Glaucous winged Gull": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Heermann Gull": [
+        "- gull",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Herring Gull": [
+        "- Bird",
+        "- Gull",
+        "Animal",
+        "Bird",
+        "Vertebrate"
+    ],
+    "Ivory Gull": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Ring billed Gull": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Slaty backed Gull": [
+        "- Gull",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Western Gull": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Anna Hummingbird": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Ruby throated Hummingbird": [
+        "- bird",
+        "- hummingbird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Rufous Hummingbird": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Green Violetear": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Long tailed Jaeger": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pomarine Jaeger": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Blue Jay": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Florida Jay": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Green Jay": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Dark eyed Junco": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Tropical Kingbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Gray Kingbird": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Belted Kingfisher": [
+        "-Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Green Kingfisher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pied Kingfisher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Ringed Kingfisher": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "White breasted Kingfisher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red legged Kittiwake": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Horned Lark": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pacific Loon": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Mallard": [
+        "- duck",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Western Meadowlark": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Hooded Merganser": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red breasted Merganser": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Mockingbird": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Nighthawk": [
+        "Animal### Nighthawk (Avian-themed Art)",
+        "Artwork",
+        "Bird",
+        "ObjectLet me know if you have a specific context in mind!",
+        "Sure! Here are some possible superclasses for the word \"Nighthawk\":",
+        "To provide accurate superclasses for \"Nighthawk,\" we need to specify the context. Here are superclasses for two common interpretations:### Nighthawk (Bird)",
+        "Vertebrate",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Clark Nutcracker": [
+        "-bird",
+        "Certainly! Here are some superclasses for \"Clark Nutcracker\":",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "White breasted Nuthatch": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Baltimore Oriole": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Hooded Oriole": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Orchard Oriole": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Scott Oriole": [
+        "- bird",
+        "Animal",
+        "Bird",
+        "Oriole",
+        "Sure, here are superclasses for the word \"Scott Oriole\":",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Ovenbird": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Brown Pelican": [
+        "- Pelican",
+        "- bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "White Pelican": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Western Wood Pewee": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Sayornis": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "American Pipit": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Whip poor Will": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Horned Puffin": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Common Raven": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "White necked Raven": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "American Redstart": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Geococcyx": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Loggerhead Shrike": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Great Grey Shrike": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Baird Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black throated Sparrow": [
+        "- Sparrow",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Brewer Sparrow": [
+        "- sparrow",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Chipping Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Clay colored Sparrow": [
+        "- Sparrow",
+        "- sparrow",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "House Sparrow": [
+        "- Bird",
+        "-bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Field Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Fox Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Grasshopper Sparrow": [
+        "- sparrow",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Harris Sparrow": [
+        "- Sparrow",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Henslow Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Le Conte Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Lincoln Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Nelson Sharp tailed Sparrow": [
+        "- sparrow",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Savannah Sparrow": [
+        "- sparrow",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Seaside Sparrow": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Song Sparrow": [
+        "- bird",
+        "-superclasses for the word \"Song Sparrow\":",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Tree Sparrow": [
+        "- Sparrow",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Vesper Sparrow": [
+        "-bird",
+        "-brird",
+        "animal",
+        "vertebrate"
+    ],
+    "White crowned Sparrow": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "White throated Sparrow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cape Glossy Starling": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Bank Swallow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Barn Swallow": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cliff Swallow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Tree Swallow": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Scarlet Tanager": [
+        "-bird",
+        "Sure! Here are the superclasses for \"Scarlet Tanager\":",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Summer Tanager": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Artic Tern": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black Tern": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Caspian Tern": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Common Tern": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Elegant Tern": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Forsters Tern": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Least Tern": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Green tailed Towhee": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Brown Thrasher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Sage Thrasher": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black capped Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Blue headed Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Philadelphia Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red eyed Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Warbling Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "White eyed Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow throated Vireo": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Bay breasted Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black and white Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Black throated Blue Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Blue winged Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Canada Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cape May Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cerulean Warbler": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Chestnut sided Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Golden winged Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Hooded Warbler": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Kentucky Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Magnolia Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Mourning Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Myrtle Warbler": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Nashville Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Orange crowned Warbler": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Palm Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Pine Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Prairie Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Prothonotary Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Swainson Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Tennessee Warbler": [
+        "- warbler",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Wilson Warbler": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Worm eating Warbler": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Yellow Warbler": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Northern Waterthrush": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Louisiana Waterthrush": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Bohemian Waxwing": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cedar Waxwing": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "American Three toed Woodpecker": [
+        "- woodpecker",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Pileated Woodpecker": [
+        "- Bird",
+        "- bird",
+        "Animal",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Red bellied Woodpecker": [
+        "- bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red cockaded Woodpecker": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Red headed Woodpecker": [
+        "- Woodpecker",
+        "-bird",
+        "Animal",
+        "Bird",
+        "Vertebrate",
+        "animal",
+        "vertebrate"
+    ],
+    "Downy Woodpecker": [
+        "- woodpecker",
+        "-bird",
+        "animal",
+        "bird",
+        "vertebrate"
+    ],
+    "Bewick Wren": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Cactus Wren": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Carolina Wren": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "House Wren": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Marsh Wren": [
+        "- bird",
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Rock Wren": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Winter Wren": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ],
+    "Common Yellowthroat": [
+        "-bird",
+        "animal",
+        "vertebrate"
+    ]
+}
